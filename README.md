@@ -3,7 +3,7 @@
 <h2>These are the list of Application Programs that have been created by me during the course of our NLP Lab (2024) </h2>
 Before proceeding to implement the following programs, make sure to install the NLTK package.
 
-<h2><b>Pre-requisites:</b></h2> <br>
+<h2><b>Pre-requisites:</b></h2>
 Stemming, Lemmatization and Tokenization techniques. Knowledge about n-grams and their separation, extraction and sorting. <br><br>
 
 
