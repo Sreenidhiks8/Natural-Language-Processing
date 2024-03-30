@@ -6,7 +6,7 @@ Before proceeding to implement the following programs, make sure to install the 
 <h2><b>Pre-requisites:</b></h2>
 Stemming, Lemmatization and Tokenization techniques. Knowledge about n-grams and their separation, extraction and sorting. <br><br>
 
- <b>EXP-0: </b>Stemming, Lemmatization, Tokenization of words in English and other languages
+ <b>EXP-0: </b>Stemming, Lemmatization, Tokenization of words in English and other languages<br>
  <b>EXP-1: </b>Hypothesis Testing using t-test and  Chi square test <br>
  <b>EXP-2: </b>Word Sense Disambiguation using Naive Bayes Score based classification <br>
  <b>EXP-3: </b>Forward and Backward Propagation in Hidden Markov Models (HMM)<br>
