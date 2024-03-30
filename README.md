@@ -5,7 +5,7 @@ These are the list of Application Programs that have been created by me during t
 
 **Pre-requisites**: Stemming, Lemmatization and Tokenization techniques. Knowledge about n-grams and their separation, extraction and sorting.
 
-1) **EXP1: **Hypothesis Testing using t-test and  Chi square test
+1) <b>EXP1: </b>Hypothesis Testing using t-test and  Chi square test
 2) **EXP2: **Word Sense Disambiguation using Naive Bayes Score based classification
 3) **EXP3: **Forward and Backward Propagation in Hidden Markov Models (HMM)
 4) **EXP4: **Viterbi Algorithm for Hidden Markov Models
