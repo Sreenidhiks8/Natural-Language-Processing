@@ -5,6 +5,7 @@ This are the list of Application Programs that have been created by me during th
 1) Hypothesis Testing using t-test and  Chi square test
 2) Word Sense Disambiguation using Naive Bayes Score based classification
 3) Forward and Backward Propagation in Hidden Markov Models (HMM)
+4) Viterbi Algorithm for Hidden Markov Model
 
 
 
